@@ -68,3 +68,4 @@ public class notas3 {
         scanner.close();
     }
 }
+ 
